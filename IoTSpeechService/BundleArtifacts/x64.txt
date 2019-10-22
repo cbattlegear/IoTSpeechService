@@ -1,0 +1,2 @@
+MainPackage=C:\Users\cabattag\Source\Repos\IoTSpeechService\IoTSpeechService\bin\x64\Release\IoTSpeechService_0.1.1.0_x64.appx
+SymbolPackage=C:\Users\cabattag\Source\Repos\IoTSpeechService\IoTSpeechService\obj\x64\Release\Symbols\IoTSpeechService_0.1.1.0_x64.appxsym
